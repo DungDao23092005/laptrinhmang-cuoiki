@@ -1,15 +1,18 @@
 package client.network;
 
+import client.Log;
 import client.view.GameBoard;
 import shared.GameMessage;
+
 import javax.swing.SwingUtilities;
 import java.io.EOFException;
 import java.io.ObjectInputStream;
+import java.util.logging.Level;
 
 public class ServerListener implements Runnable {
-    
-    private ObjectInputStream inStream;
-    private GameBoard gameBoard; // Để cập nhật UI
+
+    private final ObjectInputStream inStream;
+    private final GameBoard gameBoard;
 
     public ServerListener(ObjectInputStream inStream, GameBoard gameBoard) {
         this.inStream = inStream;
@@ -19,22 +22,16 @@ public class ServerListener implements Runnable {
     @Override
     public void run() {
         try {
-            // Vòng lặp vô tận để lắng nghe tin nhắn từ Server
             while (true) {
-                // Đọc tin nhắn
                 GameMessage msg = (GameMessage) inStream.readObject();
+                Log.L.fine("Recv: " + msg);
 
-                // **QUAN TRỌNG**: Cập nhật UI phải qua luồng của Swing
-                // Dùng SwingUtilities.invokeLater để đảm bảo an toàn
-                SwingUtilities.invokeLater(() -> {
-                    gameBoard.handleServerMessage(msg);
-                });
+                SwingUtilities.invokeLater(() -> gameBoard.handleServerMessage(msg));
             }
         } catch (EOFException e) {
-            System.out.println("Server đã đóng kết nối.");
+            Log.L.warning("Server đã đóng kết nối (EOF).");
         } catch (Exception e) {
-            System.err.println("Lỗi lắng nghe Server: " + e.getMessage());
-            e.printStackTrace();
+            Log.L.log(Level.SEVERE, "Lỗi lắng nghe Server", e);
         }
     }
 }

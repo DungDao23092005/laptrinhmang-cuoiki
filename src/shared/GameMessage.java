@@ -11,6 +11,10 @@ public class GameMessage implements Serializable {
     
     // Định nghĩa các loại tin nhắn
     public static final String MSG_PLAY_AGAIN_REQUEST = "PLAY_AGAIN";
+    public static final String MSG_PLAY_AGAIN_DECLINE = "PLAY_AGAIN_DECLINE"; 
+    public static final String MSG_FIND_NEW_OPPONENT  = "FIND_NEW_OPPONENT";
+    public static final String MSG_PING = "PING";
+    public static final String MSG_PONG = "PONG";
     public static final String MSG_GAME_RESET = "GAME_RESET";
     public static final String MSG_PARTNER_QUIT = "PARTNER_QUIT";
     public static final String MSG_CONNECT = "CONNECT";

@@ -1,0 +1,92 @@
+2025-11-11 23:07:25.099 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:07:25.123 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:07:25.129 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:07:48.734 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:07:53.928 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:07:53.929 [main] INFO CaroServer - Ghép cặp thành công: P1(X) đi trước, P2(O) chờ.
+2025-11-11 23:08:16.511 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:08:16.512 [main] INFO CaroServer - Ghép cặp thành công: P1(X) đi trước, P2(O) chờ.
+2025-11-11 23:15:32.644 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:15:32.670 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:15:32.679 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:16:01.088 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:16:01.123 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:16:01.132 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:19:47.572 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:19:47.595 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:19:47.602 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:22:21.706 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:22:21.737 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:22:21.744 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:22:25.648 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:22:34.916 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:22:34.917 [main] INFO CaroServer - Ghép cặp thành công: P1(X) đi trước, P2(O) chờ.
+2025-11-11 23:22:58.361 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:22:58.362 [main] INFO CaroServer - Ghép cặp thành công: P1(X) đi trước, P2(O) chờ.
+2025-11-11 23:26:49.959 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:26:49.992 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:26:49.997 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:31:32.867 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:31:32.899 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:31:32.904 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:32:04.901 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:33:38.080 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:33:38.086 [main] INFO CaroServer - Ghép cặp thành công: P1(X) đi trước, P2(O) chờ.
+2025-11-11 23:33:41.950 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:33:59.285 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:33:59.319 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:33:59.323 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:34:03.164 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:34:08.663 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:34:08.663 [main] INFO CaroServer - Ghép cặp thành công: P1(X) đi trước, P2(O) chờ.
+2025-11-11 23:36:55.186 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:36:55.218 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:36:55.223 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:37:02.247 [main] INFO CaroServer - Client mới đã kết nối: /127.0.0.1
+2025-11-11 23:39:01.225 [main] INFO CaroServer - Server đang khởi động...
+2025-11-11 23:39:01.267 [main] INFO CaroServer - UDP broadcaster chạy trên cổng 7777
+2025-11-11 23:39:01.271 [main] INFO CaroServer - Server đã sẵn sàng trên cổng: 9999
+2025-11-11 23:40:26.102 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-11 23:40:26.141 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-11 23:40:26.145 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-11 23:40:58.716 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-11 23:41:10.299 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-11 23:41:10.300 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.
+2025-11-11 23:44:22.360 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-11 23:44:22.397 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-11 23:44:22.402 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-11 23:44:26.092 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-11 23:44:30.718 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-11 23:44:30.747 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.
+2025-11-15 15:13:13.156 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-15 15:13:13.255 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-15 15:13:13.269 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-15 15:13:23.103 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:13:41.995 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:13:41.995 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.
+2025-11-15 15:18:02.000 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:22:15.910 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:22:15.924 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.
+2025-11-15 15:22:21.992 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:23:01.259 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-15 15:23:01.333 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-15 15:23:01.355 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-15 15:23:08.192 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:23:15.176 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:23:15.176 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.
+2025-11-16 17:12:35.212 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-16 17:12:35.258 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-16 17:12:35.267 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-16 17:13:18.325 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-16 17:14:51.118 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-16 17:14:51.162 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-16 17:14:51.167 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-16 17:15:00.672 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-16 17:15:11.346 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-16 17:15:11.350 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.
+2025-11-16 22:03:22.591 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-16 22:03:22.623 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-16 22:03:22.632 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-16 22:05:38.192 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-16 22:05:48.392 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-16 22:05:48.392 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.

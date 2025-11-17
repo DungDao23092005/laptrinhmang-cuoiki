@@ -1,0 +1,102 @@
+2025-11-11 23:07:48.699 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:07:48.743 [main] INFO CaroClient - Đã kết nối tới Server.
+2025-11-11 23:08:10.453 [AWT-EventQueue-0] INFO CaroClient - Gửi DECLINE và thoát ứng dụng.
+2025-11-11 23:08:16.475 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:08:16.520 [main] INFO CaroClient - Đã kết nối tới Server.
+2025-11-11 23:19:37.596 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:19:37.634 [main] SEVERE CaroClient - Lỗi kết nối Client hoặc kết nối đã đóng
+java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:583)
+	at java.base/java.net.Socket.<init>(Socket.java:507)
+	at java.base/java.net.Socket.<init>(Socket.java:287)
+	at client.ClientApp.main(ClientApp.java:24)
+2025-11-11 23:19:40.536 [main] INFO CaroClient - Đã đóng tài nguyên client.
+2025-11-11 23:22:02.010 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:22:02.042 [main] SEVERE CaroClient - Lỗi kết nối Client hoặc kết nối đã đóng
+java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:568)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:593)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:583)
+	at java.base/java.net.Socket.<init>(Socket.java:507)
+	at java.base/java.net.Socket.<init>(Socket.java:287)
+	at client.ClientApp.main(ClientApp.java:24)
+2025-11-11 23:22:04.039 [main] INFO CaroClient - Đã đóng tài nguyên client.
+2025-11-11 23:22:25.603 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:22:25.666 [main] INFO CaroClient - Đã kết nối tới Server.
+2025-11-11 23:22:51.526 [AWT-EventQueue-0] INFO CaroClient - Gửi DECLINE và thoát ứng dụng.
+2025-11-11 23:22:58.315 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:22:58.368 [main] INFO CaroClient - Đã kết nối tới Server.
+2025-11-11 23:23:10.551 [AWT-EventQueue-0] INFO CaroClient - Server yêu cầu tìm đối thủ mới.
+2025-11-11 23:23:11.236 [AWT-EventQueue-0] INFO CaroClient - Gửi DECLINE và thoát ứng dụng.
+2025-11-11 23:32:04.856 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:32:04.908 [main] INFO CaroClient - Đã kết nối tới Server.
+2025-11-11 23:33:38.034 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:33:38.089 [main] INFO CaroClient - Đã kết nối tới Server.
+2025-11-11 23:34:03.116 [main] INFO CaroClient - Kết nối tới localhost:9999 ...
+2025-11-11 23:34:03.172 [main] INFO CaroClient - Đã kết nối tới Server.
+2025-11-11 23:34:32.031 [AWT-EventQueue-0] INFO CaroClient - Server yêu cầu tìm đối thủ mới.
+2025-11-11 23:34:33.732 [AWT-EventQueue-0] INFO CaroClient - Gửi DECLINE và thoát ứng dụng.
+2025-11-11 23:36:44.372 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-11 23:36:44.426 [main] SEVERE CaroClient - Loi ket noi Client hoac ket noi da dong
+java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Unknown Source)
+	at java.base/sun.nio.ch.Net.connect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at java.base/java.net.Socket.<init>(Unknown Source)
+	at java.base/java.net.Socket.<init>(Unknown Source)
+	at client.ClientApp.main(ClientApp.java:24)
+2025-11-11 23:36:45.959 [main] INFO CaroClient - Da dong tai nguyen client.
+2025-11-11 23:37:02.192 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-11 23:37:02.253 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-11 23:40:58.665 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-11 23:40:58.724 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-11 23:42:18.718 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
+2025-11-11 23:44:26.041 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-11 23:44:26.100 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-11 23:44:43.757 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
+2025-11-15 15:13:22.966 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-15 15:13:23.121 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-15 15:18:01.886 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-15 15:18:02.012 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-15 15:22:15.784 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-15 15:22:15.924 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-15 15:23:08.081 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-15 15:23:08.216 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-15 15:26:13.458 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
+2025-11-16 17:13:18.261 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-16 17:13:18.333 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-16 17:14:32.254 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-16 17:14:32.308 [main] SEVERE CaroClient - Loi ket noi Client hoac ket noi da dong
+java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:589)
+	at java.base/sun.nio.ch.Net.connect(Net.java:578)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at java.base/java.net.Socket.connect(Socket.java:686)
+	at java.base/java.net.Socket.<init>(Socket.java:555)
+	at java.base/java.net.Socket.<init>(Socket.java:324)
+	at client.ClientApp.main(ClientApp.java:24)
+2025-11-16 17:14:34.480 [main] INFO CaroClient - Da dong tai nguyen client.
+2025-11-16 17:15:00.611 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-16 17:15:00.680 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-16 17:17:29.669 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
+2025-11-16 22:05:38.133 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-16 22:05:38.196 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-16 22:28:47.717 [AWT-EventQueue-0] INFO CaroClient - Server yeu cau tim doi thu moi.
+2025-11-16 22:28:50.482 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.

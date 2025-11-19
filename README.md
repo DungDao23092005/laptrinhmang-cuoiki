@@ -37,9 +37,9 @@ Dự án được cấu hình mặc định để **chạy thử nghiệm trên 
 ---
 
 ## Hướng dẫn cài đặt
-1. Cách Chạy Server.
- * Đầu tiên phải chạy File SeverApp.java trong thư mục src/server
- * Hoặc có thể chạy lệnh sau trong terminal : java -jar bin/Server.jar
-2. Cách Chạy Client.(Lưu ý phải chạy 2 lần để kết nối với trò chơi)
- * Sau đó chạy file ClientApp.java trong thư mục src/client
- *  Hoặc có thể chạy lệnh sau trong terminal :java -jar bin/Client.jar
+1. **Cách Chạy Server.**
+    * Đầu tiên phải chạy File SeverApp.java trong thư mục src/server
+    * Hoặc có thể chạy lệnh sau trong terminal : java -jar bin/Server.jar
+2. **Cách Chạy Client.(Lưu ý phải chạy 2 lần để kết nối với trò chơi)**
+    * Sau đó chạy file ClientApp.java trong thư mục src/client
+    *  Hoặc có thể chạy lệnh sau trong terminal :java -jar bin/Client.jar

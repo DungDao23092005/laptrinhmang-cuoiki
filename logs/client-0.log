@@ -68,35 +68,9 @@ java.net.ConnectException: Connection refused: connect
 2025-11-11 23:44:26.041 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
 2025-11-11 23:44:26.100 [main] INFO CaroClient - Da ket noi toi Server.
 2025-11-11 23:44:43.757 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
-2025-11-15 15:13:22.966 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
-2025-11-15 15:13:23.121 [main] INFO CaroClient - Da ket noi toi Server.
-2025-11-15 15:18:01.886 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
-2025-11-15 15:18:02.012 [main] INFO CaroClient - Da ket noi toi Server.
-2025-11-15 15:22:15.784 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
-2025-11-15 15:22:15.924 [main] INFO CaroClient - Da ket noi toi Server.
-2025-11-15 15:23:08.081 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
-2025-11-15 15:23:08.216 [main] INFO CaroClient - Da ket noi toi Server.
-2025-11-15 15:26:13.458 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
-2025-11-16 17:13:18.261 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
-2025-11-16 17:13:18.333 [main] INFO CaroClient - Da ket noi toi Server.
-2025-11-16 17:14:32.254 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
-2025-11-16 17:14:32.308 [main] SEVERE CaroClient - Loi ket noi Client hoac ket noi da dong
-java.net.ConnectException: Connection refused: connect
-	at java.base/sun.nio.ch.Net.connect0(Native Method)
-	at java.base/sun.nio.ch.Net.connect(Net.java:589)
-	at java.base/sun.nio.ch.Net.connect(Net.java:578)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:751)
-	at java.base/java.net.Socket.connect(Socket.java:686)
-	at java.base/java.net.Socket.<init>(Socket.java:555)
-	at java.base/java.net.Socket.<init>(Socket.java:324)
-	at client.ClientApp.main(ClientApp.java:24)
-2025-11-16 17:14:34.480 [main] INFO CaroClient - Da dong tai nguyen client.
-2025-11-16 17:15:00.611 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
-2025-11-16 17:15:00.680 [main] INFO CaroClient - Da ket noi toi Server.
-2025-11-16 17:17:29.669 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
-2025-11-16 22:05:38.133 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
-2025-11-16 22:05:38.196 [main] INFO CaroClient - Da ket noi toi Server.
-2025-11-16 22:28:47.717 [AWT-EventQueue-0] INFO CaroClient - Server yeu cau tim doi thu moi.
-2025-11-16 22:28:50.482 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
+2025-11-15 15:08:30.972 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-15 15:08:31.039 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-15 15:08:57.754 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
+2025-11-19 11:26:10.450 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-19 11:26:10.518 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-19 11:26:39.442 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.

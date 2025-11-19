@@ -68,3 +68,9 @@ java.net.ConnectException: Connection refused: connect
 2025-11-11 23:44:26.041 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
 2025-11-11 23:44:26.100 [main] INFO CaroClient - Da ket noi toi Server.
 2025-11-11 23:44:43.757 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
+2025-11-15 15:08:30.972 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-15 15:08:31.039 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-15 15:08:57.754 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.
+2025-11-19 11:26:10.450 [main] INFO CaroClient - Ket noi toi localhost:9999 ...
+2025-11-19 11:26:10.518 [main] INFO CaroClient - Da ket noi toi Server.
+2025-11-19 11:26:39.442 [AWT-EventQueue-0] INFO CaroClient - Gui DECLINE va thoat ung dung.

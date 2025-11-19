@@ -58,3 +58,18 @@
 2025-11-11 23:44:26.092 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
 2025-11-11 23:44:30.718 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
 2025-11-11 23:44:30.747 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.
+2025-11-15 15:08:16.455 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-15 15:08:16.490 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-15 15:08:16.507 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-15 15:08:31.021 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:08:39.327 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-15 15:08:39.328 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.
+2025-11-19 11:18:05.896 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-19 11:18:05.958 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-19 11:18:05.965 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-19 11:25:56.893 [main] INFO CaroServer - Server dang khoi dong...
+2025-11-19 11:25:56.929 [main] INFO CaroServer - UDP broadcaster chay tren cong 7777
+2025-11-19 11:25:56.934 [main] INFO CaroServer - Server da san sang tren cong: 9999
+2025-11-19 11:26:10.500 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-19 11:26:18.537 [main] INFO CaroServer - Client moi da ket noi: /127.0.0.1
+2025-11-19 11:26:18.538 [main] INFO CaroServer - Ghep cap thanh cong: P1(X) di truoc, P2(O) cho.

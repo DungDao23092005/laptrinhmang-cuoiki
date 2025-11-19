@@ -33,3 +33,12 @@ Dự án được xây dựng nhằm minh họa kiến thức về Lập trình 
 ## 🛠️ Cài đặt & Cấu hình (Localhost)
 
 Dự án được cấu hình mặc định để **chạy thử nghiệm trên cùng một máy tính**.
+
+---
+
+## Hướng dẫn cài đặt
+1. * Đầu tiên phải chạy File SeverApp.java trong thư mục src/server
+    * Hoặc có thể chạy lệnh sau trong terminal : java -jar bin/Server.jar
+2. * Sau đó chạy file ClientApp.java trong thư mục src/client
+    *  Hoặc có thể chạy lệnh sau trong terminal :java -jar bin/Client.jar
+    * Lưu ý phải chạy 2 lần để kết nối với trò chơi
